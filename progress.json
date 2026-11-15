@@ -487,11 +487,15 @@
    "t": 1794489387952
   }
  },
- "grammar": {},
- "gT": {},
+ "grammar": {
+  "～にして": true
+ },
+ "gT": {
+  "～にして": 1794715207553
+ },
  "history": [],
  "streak": {
-  "last": "Thu Nov 12 2026",
+  "last": "Sun Nov 15 2026",
   "count": 1
  },
  "planStart": 1794236400000
